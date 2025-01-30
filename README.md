@@ -1,14 +1,12 @@
-Here’s a suggested **README.md** file format for your code:
+Please find the video here: https://drive.google.com/file/d/1uoss76HlqY2RP8SuUJsRMh2nTRBqB78X/view?usp=share_link 
 
----
-
-# Quiz Data Processing and Analysis
+Quiz Data Processing and Analysis
 
 This project processes, analyzes, and visualizes quiz data obtained from various APIs. It includes data extraction, transformation, storage, and visualization to derive insights about quiz performance, user trends, and difficulty levels.
 
 ---
 
-## Table of Contents
+Table of Contents
 
 1. [Features](#features)  
 2. [Technologies Used](#technologies-used)  
@@ -21,7 +19,7 @@ This project processes, analyzes, and visualizes quiz data obtained from various
 
 ---
 
-## Features
+Features
 
 - Fetch quiz and submission data from multiple APIs.
 - Process quiz metadata, including question descriptions and options.
@@ -38,7 +36,7 @@ This project processes, analyzes, and visualizes quiz data obtained from various
 
 ---
 
-## Technologies Used
+Technologies Used
 
 - **Python** for data processing.
 - **Pandas** for data manipulation and storage.
@@ -118,18 +116,18 @@ This project processes, analyzes, and visualizes quiz data obtained from various
 
 ## Visualization Examples
 
-### 1. Accuracy Over Time
+1. Accuracy Over Time
 ![Accuracy Trend](path/to/accuracy_trend_image.png)
 
-### 2. Difficulty Level Distribution
+2. Difficulty Level Distribution
 ![Quiz Difficulty Distribution](path/to/difficulty_distribution_image.png)
 
-### 3. Weak Areas by Topic
+3. Weak Areas by Topic
 ![Weak Areas](path/to/weak_areas_image.png)
 
 ---
 
-## Future Enhancements
+Future Enhancements
 
 - Integrate real-time data fetching using API scheduling.
 - Add support for more advanced data visualizations.
@@ -138,9 +136,9 @@ This project processes, analyzes, and visualizes quiz data obtained from various
 
 ---
 
-## Acknowledgements
+Acknowledgements
 
-- **JSONKeeper** for API hosting.
-- **Seaborn** and **Matplotlib** for visualization tools.
-- Community libraries like **Pandas** and **Requests** for enabling smooth data handling.
+- JSONKeeper for API hosting.
+- Seaborn and Matplotlib for visualization tools.
+- Community libraries like Pandas and Requests for enabling smooth data handling.
 
